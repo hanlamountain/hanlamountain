@@ -22,7 +22,7 @@ AI Product Builder입니다.
 | **1** | [**Contents Studio**](#1-contents-studio) | 같은 정보를 두 번 입력하지 않는 영화 제작 통합 웹앱 |
 | **2** | [**서울시설공단 AI 실무교육**](#2-서울시설공단-ai-실무교육) | 현업의 문제를 3주 만에 작동하는 AI 시스템으로 전환 |
 | **3** | [**L-Desk**](#3-l-desk) | 흩어진 교육 운영을 하나의 파이프라인으로 연결한 사내 LMS |
-| **4** | [**Blanco**](#4-blanco) | 흩어진 업무 암묵지를 실행 가능한 To-do로 바꾸는 팀 업무도구 |
+| **4** | [**Blanco**](#4-blanco) | 흩어진 업무 암묵지를 실행 가능한 To-do로 바꾸는 팀 업무관리 시스템 |
 | **5** | [**Interactive Learning**](#5-interactive-learning) | 데이터로 문제를 확인하고 수용자별 학습 경험으로 설계 |
 | **6** | [**Interactive Movie**](#6-interactive-movie) | 관객의 선택이 이야기의 결과를 바꾸는 인터랙티브 콘텐츠 |
 
@@ -32,9 +32,9 @@ AI Product Builder입니다.
 
 <sub>**개인 프로젝트** &nbsp;|&nbsp; 기획 · UX 구조화 · Claude Code 기반 개발 &nbsp;|&nbsp; 2026.07 – 09 (진행 중)</sub>
 
-## 1. Contents Studio
+# 1. Contents Studio
 
-**같은 정보를 두 번 입력하지 않는 영화 제작 통합 웹앱**
+### 같은 정보를 두 번 입력하지 않는 영화 제작 통합 웹앱
 
 👉 **[웹앱 바로가기](https://contents-studio-rouge.vercel.app)** &nbsp;|&nbsp; 데모 계정 `blank.hrder@gmail.com` / `123456` (보기 전용 · 예시 프로젝트 「마지막 손님」)
 
@@ -98,9 +98,9 @@ AI Product Builder입니다.
 
 <sub>**실무 · 발주처 서울시설공단** &nbsp;|&nbsp; 과정 기획 · 현업 과제 구조화 · 실습 운영 · 결과물 고도화 &nbsp;|&nbsp; 2026.06 – 07</sub>
 
-## 2. 서울시설공단 AI 실무교육
+# 2. 서울시설공단 AI 실무교육
 
-**현업의 문제를 3주 만에 작동하는 AI 시스템으로 전환**
+### 현업의 문제를 3주 만에 작동하는 AI 시스템으로 전환
 
 | Before | After |
 |---|---|
@@ -171,9 +171,9 @@ AI Product Builder입니다.
 
 <sub>**실무 · 사내 시스템** &nbsp;|&nbsp; 기획 · AI 활용 개발 · 사내 적용 및 확산</sub>
 
-## 3. L-Desk
+# 3. L-Desk
 
-**흩어진 교육 운영을 하나의 파이프라인으로 연결한 사내 LMS**
+### 흩어진 교육 운영을 하나의 파이프라인으로 연결한 사내 LMS
 
 | 문제 | 설계 |
 |---|---|
@@ -199,13 +199,18 @@ AI Product Builder입니다.
 
 <sub>**실무 · 팀 프로젝트** &nbsp;|&nbsp; 기획 · 개발 · 팀 적용 &nbsp;|&nbsp; Lovable &nbsp;|&nbsp; 2026.02 – 05</sub>
 
-## 4. Blanco
+# 4. Blanco
 
-**업무 프로세스 · 인수인계 · 매뉴얼에 흩어진 암묵지를 실행 가능한 To-do로 바꾸는 팀 업무도구**
+### 업무 프로세스 · 인수인계 · 매뉴얼에 흩어진 암묵지를 실행 가능한 To-do로 바꾸는 팀 업무관리 시스템
 
 👉 **[Blanco 바로가기](https://blancohrd.lovable.app/)** &nbsp;|&nbsp; 로그인 `blank.hrder@gmail.com` / `12345678`
 
-<img src="images/blanco_home.jpg" alt="Blanco 홈 대시보드">
+<table>
+<tr>
+<td width="50%"><img src="images/blanco_home.jpg" alt="Blanco 홈 대시보드"><br><sub>홈 대시보드 · 오늘의 할 일과 지난 마감 업무</sub></td>
+<td width="50%"><img src="images/blanco_board.jpg" alt="Blanco 업무보드"><br><sub>업무보드 · 실행단계와 태스크</sub></td>
+</tr>
+</table>
 
 | 문제 | 설계 |
 |---|---|
@@ -227,7 +232,6 @@ AI Product Builder입니다.
 
 > **사람에게만 남아 있던 업무 암묵지를<br>팀이 반복해서 실행할 수 있는 구조로 바꿨습니다.**
 
-<img src="images/blanco_board.jpg" alt="Blanco 업무보드">
 
 <br>
 
@@ -235,9 +239,9 @@ AI Product Builder입니다.
 
 <sub>**교육 과정 · 개인 프로젝트** &nbsp;|&nbsp; 데이터 분석 · 교육 기획 · 인터랙티브 콘텐츠 제작 &nbsp;|&nbsp; 2025.04 – 07</sub>
 
-## 5. Interactive Learning
+# 5. Interactive Learning
 
-**데이터로 문제를 확인하고 수용자별 학습 경험으로 설계** &nbsp;<sub>수용자 중심 피드백 문화 이러닝</sub>
+### 데이터로 문제를 확인하고 수용자별 학습 경험으로 설계 &nbsp;<sub>수용자 중심 피드백 문화 이러닝</sub>
 
 [![수용자 중심 피드백 문화 1강](https://img.youtube.com/vi/r71QRddQceo/hqdefault.jpg)](https://www.youtube.com/watch?v=r71QRddQceo)
 
@@ -262,9 +266,9 @@ AI Product Builder입니다.
 
 <sub>**공모전 · 팀 그린스완** &nbsp;|&nbsp; 기획 · 연출 · 인터랙션 설계 &nbsp;|&nbsp; 임팩트닷커리어 '작전명: 임팩트타운' &nbsp;|&nbsp; 2024.08 – 10</sub>
 
-## 6. Interactive Movie
+# 6. Interactive Movie
 
-**관객의 선택이 이야기의 결과를 바꾸는 인터랙티브 콘텐츠** &nbsp;<sub>기후위기 인터랙티브 무비 · 복권 긁기 프로젝트</sub>
+### 관객의 선택이 이야기의 결과를 바꾸는 인터랙티브 콘텐츠 &nbsp;<sub>기후위기 인터랙티브 무비 · 복권 긁기 프로젝트</sub>
 
 [![기후위기 인터랙티브 무비](https://img.youtube.com/vi/6eBac-6hc8w/hqdefault.jpg)](https://www.youtube.com/watch?v=6eBac-6hc8w)
 
