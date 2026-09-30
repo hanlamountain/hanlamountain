@@ -47,4 +47,4 @@
 
 
 ### [이러닝] 수용자 중심 피드백 문화 1강
-[![수용자 중심 피드백 문화 1강](https://img.youtube.com/vi/1IELsxG8oDg/hqdefault.jpg)](https://www.youtube.com/watch?v=1IELsxG8oDg)
+[![수용자 중심 피드백 문화 1강](https://img.youtube.com/vi/r71QRddQceo/hqdefault.jpg)](https://www.youtube.com/watch?v=r71QRddQceo)
