@@ -38,8 +38,6 @@ AI Product Builder입니다.
 
 👉 **[웹앱 바로가기](https://contents-studio-rouge.vercel.app)** &nbsp;|&nbsp; 데모 계정 `blank.hrder@gmail.com` / `123456` (보기 전용 · 예시 프로젝트 「마지막 손님」)
 
-<img src="images/cs_storyboard.jpg" alt="스토리보드">
-
 | 문제 | 설계 |
 |---|---|
 | 시나리오 · 글콘티 · 스토리보드 · 샷리스트 · 일촬표에 **같은 씬·샷 정보를 반복 입력**<br>한 곳이 바뀌면 다른 문서를 사람이 다시 수정 | 문서를 따로 관리하지 않고, 제작 정보가 **하나의 데이터 흐름**으로 이어지도록 구조화<br>한 번 입력한 정보를 다른 제작 문서에서 재사용 |
@@ -63,16 +61,20 @@ AI Product Builder입니다.
 
 <table>
 <tr>
-<td><img src="images/cs_shots_grouped.jpg" alt="샷 리스트 촬영순서"><br><sub>샷 리스트 · 우선순위 기준 자동 분류와 세팅·해체 시간</sub></td>
+<td width="50%"><img src="images/cs_storyboard.jpg" alt="스토리보드"><br><sub>스토리보드 · 컷별 그림과 연출 요소</sub></td>
+<td width="50%"><img src="images/cs_shots_grouped.jpg" alt="샷 리스트 촬영순서"><br><sub>샷 리스트 · 우선순위 기준 자동 분류와 세팅·해체 시간</sub></td>
+</tr>
+<tr>
 <td><img src="images/cs_callsheet.jpg" alt="일일촬영계획표"><br><sub>일일촬영계획표 · 다른 문서의 정보로 자동 구성</sub></td>
-</tr>
-<tr>
 <td><img src="images/cs_locations.jpg" alt="로케이션"><br><sub>로케이션 · 후보별 대관료 자동 계산</sub></td>
-<td><img src="images/cs_budget.jpg" alt="결산안"><br><sub>제작비 · 대여 장비 임차비 자동 반영</sub></td>
 </tr>
 <tr>
+<td><img src="images/cs_budget.jpg" alt="결산안"><br><sub>제작비 · 대여 장비 임차비 자동 반영</sub></td>
 <td><img src="images/cs_conti.jpg" alt="글콘티"><br><sub>글콘티 · 시나리오를 컷으로 나누고 연출 선택</sub></td>
+</tr>
+<tr>
 <td><img src="images/cs_floorplan.jpg" alt="플로어플랜"><br><sub>플로어플랜 · 카메라·배우·장비 배치와 동선</sub></td>
+<td></td>
 </tr>
 </table>
 
