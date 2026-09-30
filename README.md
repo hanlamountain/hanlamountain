@@ -5,7 +5,7 @@
 
 <h1>현업의 병목을 발견해<br>실제 사용까지 연결하는</h1>
 
-$\color{#E42F44}{\textbf{\textsf{AI Product Builder}}}$입니다.
+**AI Product Builder**입니다.
 
 <sub>한지인 · JIIN HAN &nbsp;|&nbsp; 📧 blank.hrder@gmail.com</sub>
 
@@ -106,7 +106,7 @@ $\color{#E42F44}{\textbf{\textsf{AI Product Builder}}}$입니다.
 |---|---|
 | AI 도구 사용법을 배우는 교육 | 직원이 $\color{#E42F44}{\textbf{\textsf{자기 부서의 실제 문제를 선정}}}$하고, 3주 동안 AI 웹앱 · 자동화 시스템으로 구현하도록 설계 |
 
-**대표 사례** — 한 번의 답변이 아니라, 여러 단계의 분석과 판단이 이어지는 $\color{#E42F44}{\textbf{\textsf{Multi-step AI Workflow}}}$
+**대표 사례** — 한 번의 답변이 아니라, 여러 단계의 분석과 판단이 이어지는 **Multi-step AI Workflow**
 
 <table>
 <tr>
