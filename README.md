@@ -34,7 +34,7 @@ AI Product Builder입니다.
 
 # 1. Contents Studio
 
-### 같은 정보를 두 번 입력하지 않는 영화 제작 통합 웹앱
+### <mark>같은 정보를 두 번 입력하지 않는 영화 제작 통합 웹앱</mark>
 
 👉 **[웹앱 바로가기](https://contents-studio-rouge.vercel.app)** &nbsp;|&nbsp; 데모 계정 `blank.hrder@gmail.com` / `123456` (보기 전용 · 예시 프로젝트 「마지막 손님」)
 
@@ -74,7 +74,7 @@ AI Product Builder입니다.
 </tr>
 <tr>
 <td><img src="images/cs_floorplan.jpg" alt="플로어플랜"><br><sub>플로어플랜 · 카메라·배우·장비 배치와 동선</sub></td>
-<td></td>
+<td><img src="images/cs_progress.jpg" alt="촬영 진행도"><br><sub>촬영 진행도 · 일촬표 계획과 현장 테이크 기록 비교</sub></td>
 </tr>
 </table>
 
@@ -100,7 +100,7 @@ AI Product Builder입니다.
 
 # 2. 서울시설공단 AI 실무교육
 
-### 현업의 문제를 3주 만에 작동하는 AI 시스템으로 전환
+### <mark>현업의 문제를 3주 만에 작동하는 AI 시스템으로 전환</mark>
 
 | Before | After |
 |---|---|
@@ -173,7 +173,7 @@ AI Product Builder입니다.
 
 # 3. L-Desk
 
-### 흩어진 교육 운영을 하나의 파이프라인으로 연결한 사내 LMS
+### <mark>흩어진 교육 운영을 하나의 파이프라인으로 연결한 사내 LMS</mark>
 
 | 문제 | 설계 |
 |---|---|
@@ -201,7 +201,7 @@ AI Product Builder입니다.
 
 # 4. Blanco
 
-### 업무 프로세스 · 인수인계 · 매뉴얼에 흩어진 암묵지를 실행 가능한 To-do로 바꾸는 팀 업무관리 시스템
+### <mark>업무 프로세스 · 인수인계 · 매뉴얼에 흩어진 암묵지를 실행 가능한 To-do로 바꾸는 팀 업무관리 시스템</mark>
 
 👉 **[Blanco 바로가기](https://blancohrd.lovable.app/)** &nbsp;|&nbsp; 로그인 `blank.hrder@gmail.com` / `12345678`
 
@@ -241,7 +241,7 @@ AI Product Builder입니다.
 
 # 5. Interactive Learning
 
-### 데이터로 문제를 확인하고 수용자별 학습 경험으로 설계 &nbsp;<sub>수용자 중심 피드백 문화 이러닝</sub>
+### <mark>데이터로 문제를 확인하고 수용자별 학습 경험으로 설계</mark> &nbsp;<sub>수용자 중심 피드백 문화 이러닝</sub>
 
 [![수용자 중심 피드백 문화 1강](https://img.youtube.com/vi/r71QRddQceo/hqdefault.jpg)](https://www.youtube.com/watch?v=r71QRddQceo)
 
@@ -268,7 +268,7 @@ AI Product Builder입니다.
 
 # 6. Interactive Movie
 
-### 관객의 선택이 이야기의 결과를 바꾸는 인터랙티브 콘텐츠 &nbsp;<sub>기후위기 인터랙티브 무비 · 복권 긁기 프로젝트</sub>
+### <mark>관객의 선택이 이야기의 결과를 바꾸는 인터랙티브 콘텐츠</mark> &nbsp;<sub>기후위기 인터랙티브 무비 · 복권 긁기 프로젝트</sub>
 
 [![기후위기 인터랙티브 무비](https://img.youtube.com/vi/6eBac-6hc8w/hqdefault.jpg)](https://www.youtube.com/watch?v=6eBac-6hc8w)
 
