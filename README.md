@@ -28,7 +28,7 @@
 
 <br>
 
-<img src="images/divider.png" width="100%" alt="">
+<img src="images/divider_1.png" width="100%" alt="">
 
 <sub>**개인 프로젝트** &nbsp;|&nbsp; 기획 · UX 구조화 · Claude Code 기반 개발 &nbsp;|&nbsp; 2026.07 – 09 (진행 중)</sub>
 
@@ -42,7 +42,7 @@
 
 | 문제 | 설계 |
 |---|---|
-| 시나리오 · 글콘티 · 스토리보드 · 샷리스트 · 일촬표에 $\color{#E42F44}{\textbf{\textsf{같은 씬·샷 정보를 반복 입력}}}$<br>한 곳이 바뀌면 다른 문서를 사람이 다시 수정 | 문서를 따로 관리하지 않고, 제작 정보가 $\color{#E42F44}{\textbf{\textsf{하나의 데이터 흐름}}}$으로 이어지도록 구조화<br>한 번 입력한 정보를 다른 제작 문서에서 재사용 |
+| 시나리오 · 글콘티 · 스토리보드 · 샷리스트 · 일촬표에 $\color{#E31B23}{\textbf{\textsf{같은 씬·샷 정보를 반복 입력}}}$<br>한 곳이 바뀌면 다른 문서를 사람이 다시 수정 | 문서를 따로 관리하지 않고, 제작 정보가 $\color{#E31B23}{\textbf{\textsf{하나의 데이터 흐름}}}$으로 이어지도록 구조화<br>한 번 입력한 정보를 다른 제작 문서에서 재사용 |
 
 **데이터 흐름**
 
@@ -59,7 +59,7 @@
 | **로케이션 비용 자동 계산** | 시간당 · 인원 할증 · 최소 예약시간 규칙으로 후보 장소별 대관료 비교, 미정 금액은 0원이 아닌 상태로 구분 |
 | **계획 ↔ 실제 비교** | 일촬표 계획 시간과 현장 테이크 기록을 대조해 촬영 진행도 표시 |
 
-> **전문가의 판단을 AI가 대신하게 하기보다,<br>**$\color{#E42F44}{\textbf{\textsf{반복되는 판단 기준을 제품의 규칙으로}}}$ **옮겼습니다.**
+> **전문가의 판단을 AI가 대신하게 하기보다,<br>**$\color{#E31B23}{\textbf{\textsf{반복되는 판단 기준을 제품의 규칙으로}}}$ **옮겼습니다.**
 
 <table>
 <tr>
@@ -94,7 +94,7 @@
 
 <br>
 
-<img src="images/divider.png" width="100%" alt="">
+<img src="images/divider_2.png" width="100%" alt="">
 
 <sub>**실무 · 발주처 서울시설공단** &nbsp;|&nbsp; 과정 기획 · 현업 과제 구조화 · 실습 운영 · 결과물 고도화 &nbsp;|&nbsp; 2026.06 – 07</sub>
 
@@ -106,7 +106,7 @@
 
 | Before | After |
 |---|---|
-| AI 도구 사용법을 배우는 교육 | 직원이 $\color{#E42F44}{\textbf{\textsf{자기 부서의 실제 문제를 선정}}}$하고, 3주 동안 AI 웹앱 · 자동화 시스템으로 구현하도록 설계 |
+| AI 도구 사용법을 배우는 교육 | 직원이 $\color{#E31B23}{\textbf{\textsf{자기 부서의 실제 문제를 선정}}}$하고, 3주 동안 AI 웹앱 · 자동화 시스템으로 구현하도록 설계 |
 
 **대표 사례** — 한 번의 답변이 아니라, 여러 단계의 분석과 판단이 이어지는 **Multi-step AI Workflow**
 
@@ -169,7 +169,7 @@
 
 <br>
 
-<img src="images/divider.png" width="100%" alt="">
+<img src="images/divider_3.png" width="100%" alt="">
 
 <sub>**실무 · 사내 시스템** &nbsp;|&nbsp; 기획 · AI 활용 개발 · 사내 적용 및 확산</sub>
 
@@ -181,20 +181,20 @@
 
 | 문제 | 설계 |
 |---|---|
-| 한 과정을 운영할 때 명단 · 안내 · 출결 · 조 편성 · 설문 · 결과보고를 엑셀 · 구글폼 · 문서에서 따로 관리<br>$\color{#E42F44}{\textbf{\textsf{같은 정보를 단계마다 반복 입력하고 직접 집계}}}$ | ① 한 번 등록한 정보가 $\color{#E42F44}{\textbf{\textsf{다음 운영 단계까지 이어지도록}}}$ 하나의 파이프라인으로 구조화<br>② 사람이 반복하던 작성 · 집계 · 편성을 $\color{#E42F44}{\textbf{\textsf{자동 생성 · 자동 집계}}}$로 전환 |
+| 한 과정을 운영할 때 명단 · 안내 · 출결 · 조 편성 · 설문 · 결과보고를 엑셀 · 구글폼 · 문서에서 따로 관리<br>$\color{#E31B23}{\textbf{\textsf{같은 정보를 단계마다 반복 입력하고 직접 집계}}}$ | ① 한 번 등록한 정보가 $\color{#E31B23}{\textbf{\textsf{다음 운영 단계까지 이어지도록}}}$ 하나의 파이프라인으로 구조화<br>② 사람이 반복하던 작성 · 집계 · 편성을 $\color{#E31B23}{\textbf{\textsf{자동 생성 · 자동 집계}}}$로 전환 |
 
 **운영 파이프라인** — 연결 + 자동화
 
 | **준비** | → | **운영** | → | **마무리** |
 |:--:|:--:|:--:|:--:|:--:|
 | 명단 등록 · 학습자 안내 · 반 · 조 편성 | | QR 출결 · 프로젝트 제출 · 식사 주문 | | 만족도 설문 · 수료증 · 결과보고서 |
-| $\color{#E42F44}{\textbf{\textsf{출석부 자동 출력 · 자동 편성}}}$ | | $\color{#E42F44}{\textbf{\textsf{실시간 출결 · 메뉴 자동 집계}}}$ | | $\color{#E42F44}{\textbf{\textsf{설문 자동 집계 · 보고서 자동 반영}}}$ |
+| $\color{#E31B23}{\textbf{\textsf{출석부 자동 출력 · 자동 편성}}}$ | | $\color{#E31B23}{\textbf{\textsf{실시간 출결 · 메뉴 자동 집계}}}$ | | $\color{#E31B23}{\textbf{\textsf{설문 자동 집계 · 보고서 자동 반영}}}$ |
 
 <table>
 <tr><th nowrap>단계</th><th>Before</th><th>After (L-Desk)</th></tr>
 <tr><td nowrap><b>명단 · 출결</b></td><td>명단 작성 → 출석부 제작 → 수기 출결 → 스캔 · 정리 → 보고서 직접 입력</td><td>
 
-템플릿으로 명단 일괄 등록 → $\color{#E42F44}{\textbf{\textsf{출석부 PDF 자동 출력}}}$ → QR 출결 실시간 관리 → $\color{#E42F44}{\textbf{\textsf{결과보고서 자동 반영}}}$
+템플릿으로 명단 일괄 등록 → $\color{#E31B23}{\textbf{\textsf{출석부 PDF 자동 출력}}}$ → QR 출결 실시간 관리 → $\color{#E31B23}{\textbf{\textsf{결과보고서 자동 반영}}}$
 
 </td></tr>
 <tr><td nowrap><b>학습자 안내</b></td><td>노션 페이지 제작 · 배포, 강사에게 당일 리마인드 요청</td><td>
@@ -204,7 +204,7 @@
 </td></tr>
 <tr><td nowrap><b>반 · 조 편성</b></td><td>연령대 · 성별 · 부서를 고려해 담당자가 직접 편성, 조건이 많으면 AI 도구에 조건을 적어 편성</td><td>
 
-편성 기준 우선순위를 지정하면 $\color{#E42F44}{\textbf{\textsf{자동 편성}}}$ → 검토 후 직접 조정, $\color{#E42F44}{\textbf{\textsf{조별 명단 자동 출력}}}$
+편성 기준 우선순위를 지정하면 $\color{#E31B23}{\textbf{\textsf{자동 편성}}}$ → 검토 후 직접 조정, $\color{#E31B23}{\textbf{\textsf{조별 명단 자동 출력}}}$
 
 </td></tr>
 <tr><td nowrap><b>프로젝트 산출물</b></td><td>드라이브 · 협업툴 · 패들렛 공유 링크를 만들어 수합</td><td>
@@ -214,12 +214,12 @@
 </td></tr>
 <tr><td nowrap><b>만족도 설문</b></td><td>구글폼 · 서면 수합 → 결과보고서에 수치 직접 입력</td><td>
 
-문항 설정만 하면 $\color{#E42F44}{\textbf{\textsf{자동 집계}}}$ (문항 템플릿 · 7점 척도 · 일자별 출력)
+문항 설정만 하면 $\color{#E31B23}{\textbf{\textsf{자동 집계}}}$ (문항 템플릿 · 7점 척도 · 일자별 출력)
 
 </td></tr>
 <tr><td nowrap><b>식사 관리</b></td><td>구글폼 · 메뉴판 제작 → 주문 수량 직접 집계</td><td>
 
-QR 주문 → $\color{#E42F44}{\textbf{\textsf{메뉴 자동 집계}}}$
+QR 주문 → $\color{#E31B23}{\textbf{\textsf{메뉴 자동 집계}}}$
 
 </td></tr>
 <tr><td nowrap><b>수료증</b></td><td>양식에 값 직접 입력 → PDF 저장</td><td>
@@ -229,7 +229,7 @@ QR 주문 → $\color{#E42F44}{\textbf{\textsf{메뉴 자동 집계}}}$
 </td></tr>
 <tr><td nowrap><b>결과보고서</b></td><td>이전 과정과 겹치는 내용 외 모두 직접 작성</td><td>
 
-$\color{#E42F44}{\textbf{\textsf{출결 · 만족도 자동 반영}}}$, 자료실 교육사진 불러오기, PDF 출력, $\color{#E42F44}{\textbf{\textsf{AI 요약}}}$
+$\color{#E31B23}{\textbf{\textsf{출결 · 만족도 자동 반영}}}$, 자료실 교육사진 불러오기, PDF 출력, $\color{#E31B23}{\textbf{\textsf{AI 요약}}}$
 
 </td></tr>
 </table>
@@ -243,7 +243,7 @@ $\color{#E42F44}{\textbf{\textsf{출결 · 만족도 자동 반영}}}$, 자료�
 <th nowrap>1인당 월 운영 가능 과정</th>
 <td nowrap>
 
-$\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \textbf{\textsf{6개}}}$
+$\color{#E31B23}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \textbf{\textsf{6개}}}$
 
 </td>
 </tr>
@@ -257,7 +257,7 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 <br>
 
-<img src="images/divider.png" width="100%" alt="">
+<img src="images/divider_4.png" width="100%" alt="">
 
 <sub>**실무 · 팀 프로젝트** &nbsp;|&nbsp; 기획 · 개발 · 팀 적용 &nbsp;|&nbsp; 2026.02 – 05</sub>
 
@@ -278,7 +278,7 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 | 문제 | 설계 |
 |---|---|
-| 업무 노하우와 인수인계가 문서와 개인의 기억에 흩어져, 새 프로젝트마다 담당자가 매뉴얼을 다시 읽고 할 일을 직접 정리<br>**업무 방법은 조직 안에 있지만 실행 가능한 형태가 아닌 상태** | 흩어진 암묵지를 $\color{#E42F44}{\textbf{\textsf{과정 유형별 템플릿으로 구조화}}}$하고, 프로젝트 생성과 동시에 실행 가능한 To-do로 펼쳐지도록 설계 |
+| 업무 노하우와 인수인계가 문서와 개인의 기억에 흩어져, 새 프로젝트마다 담당자가 매뉴얼을 다시 읽고 할 일을 직접 정리<br>**업무 방법은 조직 안에 있지만 실행 가능한 형태가 아닌 상태** | 흩어진 암묵지를 $\color{#E31B23}{\textbf{\textsf{과정 유형별 템플릿으로 구조화}}}$하고, 프로젝트 생성과 동시에 실행 가능한 To-do로 펼쳐지도록 설계 |
 
 | 프로세스 · 매뉴얼 · 인수인계 | → | 암묵지 구조화 | → | 업무 템플릿 | → | 프로젝트 생성 | → | To-do 자동 구성 | → | 진행 관리 | → | 회고 축적 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -292,14 +292,14 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 | 결과 | |
 |:--:|---|
-| $\color{#E42F44}{\textbf{\textsf{놓치는 업무 약 90\\% 감소}}}$ | 교육 운영 자체는 L-Desk가, 팀의 일하는 방식은 Blanco가 맡도록 역할 분리 |
+| $\color{#E31B23}{\textbf{\textsf{놓치는 업무 약 90\\% 감소}}}$ | 교육 운영 자체는 L-Desk가, 팀의 일하는 방식은 Blanco가 맡도록 역할 분리 |
 
-> **사람에게만 남아 있던 업무 암묵지를<br>**$\color{#E42F44}{\textbf{\textsf{팀이 반복해서 실행할 수 있는 구조}}}$**로 바꿨습니다.**
+> **사람에게만 남아 있던 업무 암묵지를<br>**$\color{#E31B23}{\textbf{\textsf{팀이 반복해서 실행할 수 있는 구조}}}$**로 바꿨습니다.**
 
 
 <br>
 
-<img src="images/divider.png" width="100%" alt="">
+<img src="images/divider_5.png" width="100%" alt="">
 
 <sub>**교육 과정 · 개인 프로젝트** &nbsp;|&nbsp; 데이터 분석 · 교육 기획 · 인터랙티브 콘텐츠 제작 &nbsp;|&nbsp; 2025.04 – 07</sub>
 
@@ -313,7 +313,7 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 | **Data** | → | **Problem Definition** | → | **Persona** | → | **Interaction** |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Netflix 직원 리뷰 분석 | | 리뷰 단점(cons)에 communication이 등장하면 조직문화 평점이 $\color{#E42F44}{\textbf{\textsf{통계적으로 유의하게 낮음}}}$ (t-검정) | | 같은 피드백도 받는 사람에 따라 다르게 받아들인다고 판단 → DiSC 유형별 페르소나 | | "이 사람에게 어떻게 말하시겠습니까?" 선택 → 결과 피드백 확인 |
+| Netflix 직원 리뷰 분석 | | 리뷰 단점(cons)에 communication이 등장하면 조직문화 평점이 $\color{#E31B23}{\textbf{\textsf{통계적으로 유의하게 낮음}}}$ (t-검정) | | 같은 피드백도 받는 사람에 따라 다르게 받아들인다고 판단 → DiSC 유형별 페르소나 | | "이 사람에게 어떻게 말하시겠습니까?" 선택 → 결과 피드백 확인 |
 
 - **대상 · 분량**: HRD팀 중간관리자(팀장) · 10분
 - **과정**: 서울시 매력일자리 'HRD 에듀테크 AI 콘텐츠 기획자 과정' · 한국에듀테크산업협회
@@ -328,7 +328,7 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 <br>
 
-<img src="images/divider.png" width="100%" alt="">
+<img src="images/divider_6.png" width="100%" alt="">
 
 <sub>**공모전 · 팀 그린스완** &nbsp;|&nbsp; 기획 · 연출 · 인터랙션 설계 &nbsp;|&nbsp; 임팩트닷커리어 '작전명: 임팩트타운' &nbsp;|&nbsp; 2024.08 – 10</sub>
 
@@ -342,7 +342,7 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 | 문제 | 설계 |
 |---|---|
-| 기후위기 인지 95% 이상, 그러나 대응 방안을 모름 43.2% · 대응 활동 경험 24%<br>주요 원인은 $\color{#E42F44}{\textbf{\textsf{정보 부족}}}$ <sub>(세이브더칠드런 2024 기후위기 인식조사)</sub> | 관객이 $\color{#E42F44}{\textbf{\textsf{일상의 선택}}}$을 직접 고르고 결과를 경험하는 인터랙티브 무비로 설계<br>의인화한 '지구(24)'의 다이어트에 탄소발자국 감소를 비유한 스케치 코미디 |
+| 기후위기 인지 95% 이상, 그러나 대응 방안을 모름 43.2% · 대응 활동 경험 24%<br>주요 원인은 $\color{#E31B23}{\textbf{\textsf{정보 부족}}}$ <sub>(세이브더칠드런 2024 기후위기 인식조사)</sub> | 관객이 $\color{#E31B23}{\textbf{\textsf{일상의 선택}}}$을 직접 고르고 결과를 경험하는 인터랙티브 무비로 설계<br>의인화한 '지구(24)'의 다이어트에 탄소발자국 감소를 비유한 스케치 코미디 |
 
 **세 번의 선택** — 선택에 따라 엔딩이 달라지는 구조
 
@@ -354,6 +354,6 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 <br>
 
-<img src="images/divider.png" width="100%" alt="">
+<img src="images/divider_6.png" width="100%" alt="">
 
 <p align="center"><b>감사합니다 :)</b><br><sub>blank.hrder@gmail.com</sub></p>
