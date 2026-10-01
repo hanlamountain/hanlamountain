@@ -322,7 +322,7 @@ $\color{#E31B23}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 <table>
 <tr>
 <td><img src="images/elearning_analysis.jpg" alt="요구분석 데이터 분석"><br><sub>요구분석 · 리뷰 데이터 t-검정</sub></td>
-<td><a href="https://www.youtube.com/watch?v=r71QRddQceo"><img src="images/elearning_video.jpg" alt="이러닝 영상 보기"></a><br><a href="https://www.youtube.com/watch?v=r71QRddQceo"><b>▶ 이러닝 영상 보기</b></a> <sub>YouTube</sub></td>
+<td><img src="images/elearning_persona.jpg" alt="DiSC 페르소나 캐릭터"><br><sub>페르소나 · DiSC 유형별 캐릭터 4종</sub></td>
 </tr>
 </table>
 
