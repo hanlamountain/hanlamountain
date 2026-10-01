@@ -36,6 +36,8 @@
 
 ### <mark>같은 정보를 두 번 입력하지 않는 영화 제작 통합 웹앱</mark>
 
+**도구** &nbsp;`Claude Code` `VS Code` `Next.js` `Supabase` `Tailwind CSS` `Vercel` `Open-Meteo API`
+
 👉 **[웹앱 바로가기](https://contents-studio-rouge.vercel.app)** &nbsp;|&nbsp; 데모 계정 `blank.hrder@gmail.com` / `123456` (보기 전용 · 예시 프로젝트 「마지막 손님」)
 
 | 문제 | 설계 |
@@ -88,8 +90,6 @@
 - **검증 루프**: 마이그레이션과 예시 데이터를 테스트 DB에서 먼저 실행한 뒤 실제 DB에 적용
 - **계산 로직 분리**: 촬영순서 · 대관료 · 제작비 계산을 화면과 분리된 공통 함수로 구조화
 
-`Next.js` `TypeScript` `Supabase` `Vercel` · `Claude Code` `VS Code`
-
 </details>
 
 <br>
@@ -101,6 +101,8 @@
 # 2. 서울시설공단 AI 실무교육
 
 ### <mark>현업의 문제를 3주 만에 작동하는 AI 시스템으로 전환</mark>
+
+**도구** &nbsp;`ChatGPT GPTs` `Lovable` `Gemini Canvas`
 
 | Before | After |
 |---|---|
@@ -255,11 +257,13 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 ---
 
-<sub>**실무 · 팀 프로젝트** &nbsp;|&nbsp; 기획 · 개발 · 팀 적용 &nbsp;|&nbsp; Lovable &nbsp;|&nbsp; 2026.02 – 05</sub>
+<sub>**실무 · 팀 프로젝트** &nbsp;|&nbsp; 기획 · 개발 · 팀 적용 &nbsp;|&nbsp; 2026.02 – 05</sub>
 
 # 4. Blanco
 
 ### <mark>업무 프로세스 · 인수인계 · 매뉴얼에 흩어진 암묵지를 실행 가능한 To-do로 바꾸는 팀 업무관리 시스템</mark>
+
+**도구** &nbsp;`Lovable` `GPT Work`
 
 👉 **[Blanco 바로가기](https://blancohrd.lovable.app/)** &nbsp;|&nbsp; 로그인 `blank.hrder@gmail.com` / `blank.hrder`
 
@@ -301,6 +305,8 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 ### <mark>데이터로 문제를 확인하고 수용자별 학습 경험으로 설계</mark> &nbsp;<sub>수용자 중심 피드백 문화 이러닝</sub>
 
+**도구** &nbsp;`Anaconda` `Premiere Pro` `After Effects` `Midjourney`
+
 ▶️ **[이러닝 영상 보기 · 수용자 중심 피드백 문화 1강](https://www.youtube.com/watch?v=r71QRddQceo)** <sub>YouTube</sub>
 
 | **Data** | → | **Problem Definition** | → | **Persona** | → | **Interaction** |
@@ -327,6 +333,8 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 # 6. Interactive Movie
 
 ### <mark>관객의 선택이 이야기의 결과를 바꾸는 인터랙티브 콘텐츠</mark> &nbsp;<sub>기후위기 인터랙티브 무비 · 복권 긁기 프로젝트</sub>
+
+**도구** &nbsp;`Premiere Pro`
 
 ▶️ **[영상 보기 · 기후위기 인터랙티브 무비](https://www.youtube.com/watch?v=6eBac-6hc8w)** <sub>YouTube</sub>
 
