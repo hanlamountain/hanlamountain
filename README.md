@@ -28,7 +28,7 @@
 
 <br>
 
----
+<img src="images/divider.png" width="100%" alt="">
 
 <sub>**개인 프로젝트** &nbsp;|&nbsp; 기획 · UX 구조화 · Claude Code 기반 개발 &nbsp;|&nbsp; 2026.07 – 09 (진행 중)</sub>
 
@@ -94,7 +94,7 @@
 
 <br>
 
----
+<img src="images/divider.png" width="100%" alt="">
 
 <sub>**실무 · 발주처 서울시설공단** &nbsp;|&nbsp; 과정 기획 · 현업 과제 구조화 · 실습 운영 · 결과물 고도화 &nbsp;|&nbsp; 2026.06 – 07</sub>
 
@@ -169,7 +169,7 @@
 
 <br>
 
----
+<img src="images/divider.png" width="100%" alt="">
 
 <sub>**실무 · 사내 시스템** &nbsp;|&nbsp; 기획 · AI 활용 개발 · 사내 적용 및 확산</sub>
 
@@ -257,7 +257,7 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 <br>
 
----
+<img src="images/divider.png" width="100%" alt="">
 
 <sub>**실무 · 팀 프로젝트** &nbsp;|&nbsp; 기획 · 개발 · 팀 적용 &nbsp;|&nbsp; 2026.02 – 05</sub>
 
@@ -299,7 +299,7 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 <br>
 
----
+<img src="images/divider.png" width="100%" alt="">
 
 <sub>**교육 과정 · 개인 프로젝트** &nbsp;|&nbsp; 데이터 분석 · 교육 기획 · 인터랙티브 콘텐츠 제작 &nbsp;|&nbsp; 2025.04 – 07</sub>
 
@@ -328,7 +328,7 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 <br>
 
----
+<img src="images/divider.png" width="100%" alt="">
 
 <sub>**공모전 · 팀 그린스완** &nbsp;|&nbsp; 기획 · 연출 · 인터랙션 설계 &nbsp;|&nbsp; 임팩트닷커리어 '작전명: 임팩트타운' &nbsp;|&nbsp; 2024.08 – 10</sub>
 
@@ -354,6 +354,6 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 <br>
 
----
+<img src="images/divider.png" width="100%" alt="">
 
 <p align="center"><b>감사합니다 :)</b><br><sub>blank.hrder@gmail.com</sub></p>
