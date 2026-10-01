@@ -177,7 +177,7 @@
 
 ### <mark>흩어진 교육 운영을 연결하고 반복 업무를 자동화한 사내 LMS</mark>
 
-**도구** &nbsp;`Lovable`
+**도구** &nbsp;`Lovable` `Supabase` `OpenAI GPT API`
 
 | 문제 | 설계 |
 |---|---|
