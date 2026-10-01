@@ -177,6 +177,8 @@
 
 ### <mark>흩어진 교육 운영을 연결하고 반복 업무를 자동화한 사내 LMS</mark>
 
+**도구** &nbsp;`Lovable`
+
 | 문제 | 설계 |
 |---|---|
 | 한 과정을 운영할 때 명단 · 안내 · 출결 · 조 편성 · 설문 · 결과보고를 엑셀 · 구글폼 · 문서에서 따로 관리<br>$\color{#E42F44}{\textbf{\textsf{같은 정보를 단계마다 반복 입력하고 직접 집계}}}$ | ① 한 번 등록한 정보가 $\color{#E42F44}{\textbf{\textsf{다음 운영 단계까지 이어지도록}}}$ 하나의 파이프라인으로 구조화<br>② 사람이 반복하던 작성 · 집계 · 편성을 $\color{#E42F44}{\textbf{\textsf{자동 생성 · 자동 집계}}}$로 전환 |
@@ -263,7 +265,7 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 ### <mark>업무 프로세스 · 인수인계 · 매뉴얼에 흩어진 암묵지를 실행 가능한 To-do로 바꾸는 팀 업무관리 시스템</mark>
 
-**도구** &nbsp;`Lovable` `GPT Work`
+**도구** &nbsp;`Lovable` `Supabase` `GPT Work`
 
 👉 **[Blanco 바로가기](https://blancohrd.lovable.app/)** &nbsp;|&nbsp; 로그인 `blank.hrder@gmail.com` / `blank.hrder`
 
