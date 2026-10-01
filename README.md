@@ -261,7 +261,7 @@ $\color{#E42F44}{\textbf{\textsf{3개}} \rightarrow \textbf{\textsf{5}} \sim \te
 
 ### <mark>업무 프로세스 · 인수인계 · 매뉴얼에 흩어진 암묵지를 실행 가능한 To-do로 바꾸는 팀 업무관리 시스템</mark>
 
-👉 **[Blanco 바로가기](https://blancohrd.lovable.app/)** &nbsp;|&nbsp; 로그인 `blank.hrder@gmail.com` / `12345678`
+👉 **[Blanco 바로가기](https://blancohrd.lovable.app/)** &nbsp;|&nbsp; 로그인 `blank.hrder@gmail.com` / `blank.hrder`
 
 <table>
 <tr>
